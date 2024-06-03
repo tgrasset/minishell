@@ -40,4 +40,4 @@ The following builtins are implemented:
 
 ## Acknowledgements
 
-This project was made with my teammate [hejingar](https://github.com/hejingar) at 42 school.
+This project was made with my teammate [hejingar](https://github.com/hejingar) at 42 school in February and March 2023.
